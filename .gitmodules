@@ -1,3 +1,0 @@
-[submodule "EventBus"]
-	path = EventBus
-	url = https://github.com/greenrobot/EventBus.git
