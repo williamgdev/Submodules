@@ -1,0 +1,3 @@
+[submodule "Libraries/RestAPI"]
+	path = Libraries/RestAPI
+	url = https://github.com/williamgdev/RestAPI.git
