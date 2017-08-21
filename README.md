@@ -9,5 +9,5 @@ $ git submodule add https://github.com/williamgdev/RestAPI.git Libraries/RestAPI
 
 `Pull changes from remote`
 ```sh
-$ git submodule add https://github.com/williamgdev/RestAPI.git Libraries/RestAPI/
+$ git submodule update --recursive --remote
 ```
